@@ -1,2 +1,2 @@
 ﻿# git-session
- hello 
+ add commit and push
